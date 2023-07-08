@@ -1,0 +1,9 @@
+"degree","moments","lderivativenormalized","qderivativenormalized"
+1,$\ell$,$1$,$0$
+2,$\ell^2 + q$,$\ell$,$1$
+3,$\ell^3 + 3q\ell$,$\ell^2 + q$,$\ell$
+4,$\ell^4 + 6q\ell^2 + 3q^2$,$\ell^3 + 3q\ell$,$\ell^2 + q$
+5,$\ell^5 + 10q\ell^3 + 15q^2\ell$,$\ell^4 + 6q\ell^2 + 3q^2$,$\ell^3 + 3q\ell$
+6,$\ell^6 + 15q\ell^4 + 45q^2\ell^2 + 15q^3$,$\ell^5 + 10q\ell^3 + 15q^2\ell$,$\ell^4 + 6q\ell^2 + 3q^2$
+7,$\ell^7 + 21q\ell^5 + 105q^2\ell^3 + 105q^3\ell$,$\ell^6 + 15q\ell^4 + 45q^2\ell^2 + 15q^3$,$\ell^5 + 10q\ell^3 + 15q^2\ell$
+8,$\ell^8 + 28q\ell^6 + 210q^2\ell^4 + 420q^3\ell^2 + 105q^4$,$\ell^7 + 21q\ell^5 + 105q^2\ell^3 + 105q^3\ell$,$\ell^6 + 15q\ell^4 + 45q^2\ell^2 + 15q^3$
