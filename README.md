@@ -1,6 +1,6 @@
 # Gaussian Mixture Identifiability from degree-6 moments
 
-This repository accompanies the arxiv submission [Gaussian Mixture Identifiability from degree-6 moments](...) (_link will be updated once the article is available on arxiv_). It contains code and data from numerical experiments, and parts of proofs that were verified on a computer, as well as the code that was used to generate the plots.
+This repository accompanies the arxiv submission [Gaussian Mixture Identifiability from degree-6 moments](https://arxiv.org/abs/2307.03850). It contains code and data from numerical experiments, and parts of proofs that were verified on a computer, as well as the code that was used to generate the plots.
 
 The repository is organized as follows: 
 
